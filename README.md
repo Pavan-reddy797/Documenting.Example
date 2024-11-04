@@ -12,7 +12,8 @@
 Thia data analysis project aims to provide insights into the sales peroformance of an e-commerce over the past year. By analyzing various aspects of the sales                         
  data, we seek to identify trends, make data-driven recommendations, and gain a deeper understandings of the company's performance.
 
- [Dashboard](
+ [Dashboard](#screenshot 2024-09-19 104658) 
+![Screenshot 2024-09-19 104658](https://github.com/user-attachments/assets/9bf13483-4b4d-48fd-aca0-cf651fb588b8)
 
 ### Data Sources
 
