@@ -8,6 +8,7 @@
 
 
 ### Project Overview
+---
 
 Thia data analysis project aims to provide insights into the sales peroformance of an e-commerce over the past year. By analyzing various aspects of the sales                         
  data, we seek to identify trends, make data-driven recommendations, and gain a deeper understandings of the company's performance.
@@ -72,8 +73,22 @@ Based on the analysis, we recommend the folllowing actions:
 
 ### References
 
-  1. SQL for Bussinesses by werty.
-  2. [Stack Overflow](https://stak.com)
+1. SQL for Bussinesses by werty.
+2. [Stack Overflow](https://stak.com)
 
+😸
+
+💻
+
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+|Python|SQL|
+
+`coulmn_1`
+
+**bold**
+
+*italic*
 
   
